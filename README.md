@@ -593,10 +593,8 @@ And now we move on to something else: Kubernetes and the orchestrators!
 **Additional Resources**
 
 - [Awesome Docker](https://github.com/veggiemonk/awesome-docker)
-- [Hello Docker Workshop](http://docker.atbaker.me/)
-- [Building a microservice with Node.js and Docker](https://www.youtube.com/watch?v=PJ95WY2DqXo)
 - [Why Docker](https://blog.codeship.com/why-docker/)
-- [Docker Weekly](https://www.docker.com/newsletter-subscription) and [archives](https://blog.docker.com/docker-weekly-archives/)
+- [Docker Curriculum](https://docker-curriculum.com/) was the main inspiration for this!
 
 **Troubles/Feedback**
 
