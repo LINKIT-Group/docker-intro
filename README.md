@@ -1,7 +1,3 @@
----
-layout: layout.html
----
-
 # Docker basics Hands-on
 
 ## Agenda
